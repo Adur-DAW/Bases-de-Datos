@@ -1,5 +1,5 @@
 ALTER TABLE stock ADD (
-    fechaultimaentrada DATE DEFAULT sysdate,
+    fechaUltimaEntrada DATE DEFAULT sysdate,
     beneficio          NUMBER(1) CHECK ( beneficio BETWEEN 1 AND 5 )
 );
 
