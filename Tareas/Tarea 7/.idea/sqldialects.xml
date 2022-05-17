@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SqlDialectMappings">
+    <file url="file://$PROJECT_DIR$/../Examen/EXAMEN-PARTE 1.sql" dialect="OracleSqlPlus" />
+    <file url="file://$PROJECT_DIR$/../Examen/EXAMEN-PARTE 2.sql" dialect="OracleSqlPlus" />
+    <file url="file://$PROJECT_DIR$/../Examen/examen.sql" dialect="OracleSqlPlus" />
+    <file url="file://$PROJECT_DIR$/../Examen/videoclub.sql" dialect="OracleSqlPlus" />
+    <file url="file://$PROJECT_DIR$/ejercicio1.sql" dialect="OracleSqlPlus" />
+    <file url="file://$PROJECT_DIR$/ejercicio2.sql" dialect="OracleSqlPlus" />
+    <file url="file://$USER_HOME$/Downloads/marques_herrero_adur_BD04_Tarea.sql" dialect="OracleSqlPlus" />
+  </component>
+</project>
